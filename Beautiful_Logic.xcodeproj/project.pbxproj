@@ -11,6 +11,7 @@
 		84E3B51C2C69B27D00421F21 /* Assembler.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E3B51B2C69B27D00421F21 /* Assembler.swift */; };
 		84E3B51E2C69B40500421F21 /* ApplicationContext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E3B51D2C69B40500421F21 /* ApplicationContext.swift */; };
 		84E3B5202C69B4B000421F21 /* NewUseCase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E3B51F2C69B4B000421F21 /* NewUseCase.swift */; };
+		84E3B5222C69B54F00421F21 /* NormalDecode.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84E3B5212C69B54F00421F21 /* NormalDecode.swift */; };
 		84F56BF42C48B014002A3758 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F56BF32C48B014002A3758 /* AppDelegate.swift */; };
 		84F56BF62C48B014002A3758 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F56BF52C48B014002A3758 /* SceneDelegate.swift */; };
 		84F56BF82C48B014002A3758 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F56BF72C48B014002A3758 /* ViewController.swift */; };
@@ -25,6 +26,7 @@
 		84E3B51B2C69B27D00421F21 /* Assembler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assembler.swift; sourceTree = "<group>"; };
 		84E3B51D2C69B40500421F21 /* ApplicationContext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApplicationContext.swift; sourceTree = "<group>"; };
 		84E3B51F2C69B4B000421F21 /* NewUseCase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewUseCase.swift; sourceTree = "<group>"; };
+		84E3B5212C69B54F00421F21 /* NormalDecode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NormalDecode.swift; sourceTree = "<group>"; };
 		84F56BF02C48B014002A3758 /* Beautiful_Logic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Beautiful_Logic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		84F56BF32C48B014002A3758 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84F56BF52C48B014002A3758 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -78,6 +80,7 @@
 				84E3B51B2C69B27D00421F21 /* Assembler.swift */,
 				84E3B51D2C69B40500421F21 /* ApplicationContext.swift */,
 				84E3B51F2C69B4B000421F21 /* NewUseCase.swift */,
+				84E3B5212C69B54F00421F21 /* NormalDecode.swift */,
 			);
 			path = Beautiful_Logic;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				84E3B51E2C69B40500421F21 /* ApplicationContext.swift in Sources */,
 				84F56C082C48B030002A3758 /* FileFormatConverter.swift in Sources */,
 				84F56BF42C48B014002A3758 /* AppDelegate.swift in Sources */,
+				84E3B5222C69B54F00421F21 /* NormalDecode.swift in Sources */,
 				84E3B51C2C69B27D00421F21 /* Assembler.swift in Sources */,
 				84E3B5202C69B4B000421F21 /* NewUseCase.swift in Sources */,
 				84F56BF62C48B014002A3758 /* SceneDelegate.swift in Sources */,
